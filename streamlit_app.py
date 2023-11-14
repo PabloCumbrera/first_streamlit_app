@@ -1,7 +1,5 @@
 import streamlit
 
-streamlit.title('Working in my frist app')
-
 streamlit.header('Breakfast Menu')
 streamlit.text('Omega 3 & Blueberry Oatmeal')
 streamlit.text('Kale, Spinach & Rocket Smoothie')
